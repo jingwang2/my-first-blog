@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 Django==3.1.12
-=======
 alabaster==0.7.12
 appdirs==1.4.4
 arrow==0.13.1
@@ -158,4 +156,4 @@ wincertstore==0.2
 wrapt==1.12.1
 yapf==0.31.0
 zipp==3.7.0
->>>>>>> 395e6a997e88174a40742ed4da11accab3b7721a
+
